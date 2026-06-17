@@ -4,7 +4,7 @@ Eu sou o Igor, sou um programador Front end, e atualmente estou aprendendo e cri
 
 <img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt= "html-logo">
 <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt= "html-logo">
-<img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript" alt= "Javascript-logo>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt= "Javascript-logo>
 
 Contate-me:
 <a href= "https://www.linkedin.com/in/igor-leite-santos-2ab195142/?skipRedirect=true">
